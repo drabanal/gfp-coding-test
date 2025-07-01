@@ -1,1 +1,0 @@
-# gfp-coding-test
