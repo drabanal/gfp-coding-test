@@ -14,7 +14,7 @@ Create a `.env` file in the root folder of the project and copy the contents fro
 In your `.env` file, add your Github's personal access token
 
 ```bash
-GITHUB_PERSONAL_TOKEN=your_personal_aGITHUB_PERSONAL_TOKEN=your_personal_access_token
+GITHUB_PERSONAL_TOKEN=your_personal_access_token
 ```
 
 Generate your `APP_KEY`
